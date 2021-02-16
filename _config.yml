@@ -14,11 +14,11 @@ author: Mario He
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://www.linkedin.com/in/mario-he-5ba7b4171/"
+  About Me: "aboutme"
   Resources:
     - Bank of Canada: "https://www.bankofcanada.ca/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
+  Author's home: "https://www.linkedin.com/in/mario-he-5ba7b4171/"
 
 # --- Logo --- #
 
